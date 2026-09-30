@@ -1,0 +1,14 @@
+Naive Bayes
+Accuracy: 0.8545
+
+               precision    recall  f1-score   support
+
+     Business       0.76      0.80      0.78        44
+Entertainment       0.93      0.82      0.87        45
+     Politics       0.96      0.98      0.97        44
+       Sports       0.89      0.91      0.90        44
+   Technology       0.75      0.77      0.76        43
+
+     accuracy                           0.85       220
+    macro avg       0.86      0.85      0.85       220
+ weighted avg       0.86      0.85      0.85       220

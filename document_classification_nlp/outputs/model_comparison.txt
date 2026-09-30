@@ -1,0 +1,5 @@
+Model comparison (test accuracy):
+  Naive Bayes: 0.8545
+  Linear SVM: 0.8545
+
+Selected best model: Naive Bayes
